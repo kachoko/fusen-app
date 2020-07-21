@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fusen-app/static/css/main.c2757d13.chunk.css",
+    "main.js": "/fusen-app/static/js/main.6b7ac5ce.chunk.js",
+    "main.js.map": "/fusen-app/static/js/main.6b7ac5ce.chunk.js.map",
+    "runtime-main.js": "/fusen-app/static/js/runtime-main.78e4de54.js",
+    "runtime-main.js.map": "/fusen-app/static/js/runtime-main.78e4de54.js.map",
+    "static/js/2.258aaf37.chunk.js": "/fusen-app/static/js/2.258aaf37.chunk.js",
+    "static/js/2.258aaf37.chunk.js.map": "/fusen-app/static/js/2.258aaf37.chunk.js.map",
+    "index.html": "/fusen-app/index.html",
+    "precache-manifest.3a49a4407a8b94f1689ff691ab417b7f.js": "/fusen-app/precache-manifest.3a49a4407a8b94f1689ff691ab417b7f.js",
+    "service-worker.js": "/fusen-app/service-worker.js",
+    "static/css/main.c2757d13.chunk.css.map": "/fusen-app/static/css/main.c2757d13.chunk.css.map",
+    "static/js/2.258aaf37.chunk.js.LICENSE.txt": "/fusen-app/static/js/2.258aaf37.chunk.js.LICENSE.txt",
+    "static/media/uzura.ttf": "/fusen-app/static/media/uzura.047bdfea.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e4de54.js",
+    "static/js/2.258aaf37.chunk.js",
+    "static/css/main.c2757d13.chunk.css",
+    "static/js/main.6b7ac5ce.chunk.js"
+  ]
+}
