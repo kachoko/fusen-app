@@ -1,0 +1,49 @@
+.small {
+    background-color: pink;
+    display: inline-block;
+    width: 25%;
+    animation: stick-fusen 1s ease 0s 1 forwards;
+    padding: 10px 15px;
+    position: relative;
+    span {
+        opacity: 0; // default value
+        animation: write-letter 1s ease 500ms 1 forwards;
+    }
+}
+.cut {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-top: 7px solid transparent;
+    border-right: 7px solid #fff;
+    border-left: 7px solid transparent;
+    border-bottom: 7px solid #fff;
+}
+.pop {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-top: 7px solid red;
+    border-right: 7px solid transparent;
+    border-left: 7px solid red;
+    border-bottom: 7px solid transparent;
+}
+@keyframes stick-fusen {
+    0% {
+        width: 0px;
+        white-space: nowrap;
+    }
+    100% {
+        width: 25%;
+        white-space: normal;
+    }
+}
+
+@keyframes write-letter {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
