@@ -6,6 +6,7 @@ function App() {
   return (
     <div className={styles.container}>
       <HeaderComponent />
+      <span>あいうえお</span>
     </div>
   );
 }

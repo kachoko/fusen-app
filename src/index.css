@@ -1,6 +1,17 @@
+@font-face {
+  font-family: 'uzura';
+  src: url('./fonts/uzura.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'uzura';
+}
+
 body {
   margin: 0;
-  font-family: 'Osaka', sans-serif;
+  font-family: "uzura", "Osaka", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
