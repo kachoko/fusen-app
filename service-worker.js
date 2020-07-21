@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fusen-app/precache-manifest.3a49a4407a8b94f1689ff691ab417b7f.js"
+  "/fusen-app/precache-manifest.210ec5fdd04df4f0c66ae7bfe07ad6b1.js"
 );
 
 self.addEventListener('message', (event) => {
